@@ -1,3 +1,5 @@
+from data import video_game_sales
+
 for game in video_game_sales:
     if game[9] > 25:
      print(game[1] , game[9])
