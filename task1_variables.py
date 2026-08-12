@@ -1,3 +1,5 @@
+from data import video_game_sales
+
 total_games = len(video_game_sales)
 print(total_games)
 
