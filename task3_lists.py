@@ -1,3 +1,5 @@
+from data import video_game_sales
+
 game_names = []
 for game in video_game_sales:
    game_names.append(game[1]) 
