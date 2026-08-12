@@ -1,3 +1,5 @@
+from data import video_game_sales
+
 messy_names = ['  Wii Sports  ', 'TETRIS', '  mario kart WII']
 
 game_name = video_game_sales[4][1]
