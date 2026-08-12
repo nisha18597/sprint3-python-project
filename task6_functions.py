@@ -1,3 +1,5 @@
+from data import video_game_sales
+
 def calculate_total_sales(game):
     result = game[6] + game[7] + game[8]
     return result
