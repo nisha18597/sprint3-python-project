@@ -1,3 +1,5 @@
+from data import video_game_sales
+
 sales_by_genre = {}
 
 for game in video_game_sales:
